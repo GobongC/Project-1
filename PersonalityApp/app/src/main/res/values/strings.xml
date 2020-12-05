@@ -6,8 +6,8 @@
     <string name="about">About</string>
 
     <!--About-->
-    <string name="credits">Yunseo Choi - Lead Graphics, Design, UI\nRoy Chung - \nBen Hodge - \nClaire Paisley - \nHana Parece - \n
-        (This is just a placeholder, we\'ll figure out how to credit all of us and what else to write here)</string>
+    <string name="app_description">About</string>
+    <string name="credits">Credits:\nYunseo Choi - Lead Graphics, Design, UI\nRoy Chung - \nBen Hodge - \nClaire Paisley - \nHana Parece - \ntest</string>
 
 
     <!--Gender-->
